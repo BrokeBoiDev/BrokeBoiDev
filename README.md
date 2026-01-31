@@ -1,5 +1,8 @@
-# 💫 About Me:
-## 👋 Welcome, I'm BrokeBoiDev<br><br>### 🚧 Founder of BrokeBoi Productions & GhostByte Labs<br><br>### 🤝 I'm looking to collaborate on<br>✨ Clean UI projects, small SaaS tools, and branding + web builds for startups or creators.<br><br>### 🧠 I'm looking for help with<br>🛠️ Best practices for database design, authentication flows, and deploying production-ready apps.<br><br>### 📚 I'm currently learning<br>📌 React/Next.js, TypeScript, Supabase, and a bit of Blender for 3D logo animations.<br><br>### 🎯 Fun fact<br>👻 I mix tech + design—one day I’m coding, the next I’m designing a logo or building a brand concept.<br>
+👻 BrokeBoiDev (GhostByte Labs) — shipping polished web UI and practical tools.
+
+🧰 Stack: HTML/CSS/JS, React (learning), basic integrations  
+🤝 Available for: UI builds, redesigns, and small product prototypes
+
 
 
 ## 🌐 Socials:
